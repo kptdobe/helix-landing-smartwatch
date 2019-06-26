@@ -264,6 +264,27 @@ header ul li {
     padding: 0 20px;
 }
 
+header ul li a {
+    display: block;
+    border-style: none;
+    border-radius: 100px;
+    background: rgba(20, 115, 230, 1);
+    -pie-background: rgba(20, 115, 230, 1);
+    box-shadow: none;
+    text-shadow: none;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: normal;
+    text-align: center;
+    background-repeat: no-repeat;
+    padding: 10px 30px;
+}
+
+div.section {
+    text-align: center;
+}
+
 footer {
     background-color: black;
     padding: 20px 0px;

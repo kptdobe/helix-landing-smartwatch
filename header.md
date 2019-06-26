@@ -6,5 +6,4 @@
 - System Requirements
 - Free Trial
 - More Products
-
-[Download XD](https://creativecloud.adobe.com/apps/download/xd)
+- [Download XD](https://creativecloud.adobe.com/apps/download/xd)
