@@ -264,11 +264,38 @@ header ul li {
     padding: 0 20px;
 }
 
-.section ul li {
+main .section ul li {
     list-style-type: none;
     display: inline-block;
     width: 30%;
     vertical-align: top;
+}
+
+main .section ul li h3 {
+    border-radius: 117px;
+    border: 1px solid white;
+    height: 22px;
+    width: 42px;
+    font-size: 21px;
+    line-height: 0;
+    padding-top: 20px;
+    text-align: center;
+}
+
+main .section ul li h4 {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+main .section ul li {
+    text-align: left;
+}
+
+main p {
+    color: rgb(202, 202, 202);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
 }
 
 .section ul li a {
@@ -301,7 +328,16 @@ footer {
     line-height: 2em;
 }
 
+footer p {
+    text-align: left;
+}
+
+footer p img {
+    width: 25px;
+}
+
 footer li>p {
+    text-align: center;
     font-size: 1em;
     color: white;
     font-weight: 600;
