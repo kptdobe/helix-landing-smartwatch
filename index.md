@@ -29,9 +29,9 @@ Build a prototype with this free XD UI kit. 60 screens, 20+ components, 30+ icon
 
 ---
 
-![](https://d9hhrg4mnvzow.cloudfront.net/xd.adobelanding.com/xd-smartwatch-ui-kit/99f5d5c7-creative-cloud-cc.png)
-
 ### Make it. Creative Cloud.
+
+![](https://d9hhrg4mnvzow.cloudfront.net/xd.adobelanding.com/xd-smartwatch-ui-kit/99f5d5c7-creative-cloud-cc.png)
 
 Adobe XD is part of Creative Cloud, which also includes Photoshop, Illustrator, and all our other amazing creative desktop apps. It’s everything you need to turn your brightest ideas into your best work and share it with the world.
 
